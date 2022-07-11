@@ -1,0 +1,15 @@
+.notifymeta-red-btn {
+  height: 45px;
+  width: 45px;
+  background: #ff6b721a;
+  border: 1px solid #FF6B72;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.notifymeta-red-btn img {
+  width: 19px;
+}
